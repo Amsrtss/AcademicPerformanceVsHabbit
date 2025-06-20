@@ -1,5 +1,3 @@
-# AcademicPerformanceVsHabbit
-
 # 🎓 Student Habits vs Academic Performance Prediction
 
 Aplikasi interaktif berbasis Streamlit untuk memprediksi skor ujian mahasiswa berdasarkan kebiasaan harian seperti jam belajar, kehadiran, tidur, penggunaan media sosial, dan lainnya. Proyek ini menggunakan Linear Regression dan dataset dari [Kaggle](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance).
